@@ -1,4 +1,5 @@
 import React from 'react';
+import './Controls.css';
 import { Card, CardBody, CardFooter, CardHeader, Button } from 'reactstrap';
 
 const controls = [
